@@ -1,0 +1,46 @@
+﻿  GameManager.cpp
+c:\users\rickr\documents\2dcgame\2dgame\2dgame\particlesystem.h(8): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\rickr\documents\2dcgame\2dgame\2dgame\tile.h(71): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rickr\documents\2dcgame\2dgame\2dgame\tile.h(79): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rickr\documents\2dcgame\2dgame\2dgame\gamemanager.cpp(386): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  Player.cpp
+c:\users\rickr\documents\2dcgame\2dgame\2dgame\particlesystem.h(8): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\rickr\documents\2dcgame\2dgame\2dgame\player.cpp(28): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  SoundManager.cpp
+c:\users\rickr\documents\2dcgame\2dgame\2dgame\soundmanager.cpp(11): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+c:\users\rickr\documents\2dcgame\2dgame\2dgame\particlesystem.h(8): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\rickr\documents\2dcgame\2dgame\2dgame\tile.h(71): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rickr\documents\2dcgame\2dgame\2dgame\tile.h(79): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rickr\documents\2dcgame\2dgame\2dgame\main.cpp(63): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\rickr\documents\2dcgame\2dgame\2dgame\main.cpp(76): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  2DGame.vcxproj -> C:\Users\rickr\Documents\2dcgame\2DGame\Debug\2DGame.exe
